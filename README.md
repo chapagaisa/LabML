@@ -4,7 +4,7 @@ MLkit face detection API and code uses
 FaceContourGraphics.java
 ---------------------------------------------
 This code helps updates the face instance from the detection of the most recent frame and draws the face
-annotations for position on the supplied canvas.  
+annotations for position on the supplied canvas. 
 
 
 
@@ -19,7 +19,7 @@ invalidation within the view.
 
 LoadImageHere.java
 ---------------------------------------------
-In this file I am loading the Image taken from the camera to run the face contour and graphic overlay after detecting face.
+In this file I am loading the Image taken from the camera to run the face contour and graphic overlay after detecting face. Also, this code calls activities GraphicOverlay.java and LoadImageHere.java. 
 
 
 MainActivity.java
